@@ -1,0 +1,10 @@
+config load "C:\RMX\labencoder\encoder\encoder.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\janej\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait

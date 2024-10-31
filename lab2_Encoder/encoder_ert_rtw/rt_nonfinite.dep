@@ -1,0 +1,5 @@
+rt_nonfinite.o: C:/RMX/labencoder/encoder_ert_rtw/rt_nonfinite.c \
+ C:/RMX/labencoder/encoder_ert_rtw/rtwtypes.h \
+ C:/RMX/labencoder/encoder_ert_rtw/rt_nonfinite.h
+C:/RMX/labencoder/encoder_ert_rtw/rtwtypes.h:
+C:/RMX/labencoder/encoder_ert_rtw/rt_nonfinite.h:

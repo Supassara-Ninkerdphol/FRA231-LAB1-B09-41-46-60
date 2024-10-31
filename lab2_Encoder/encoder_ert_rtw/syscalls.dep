@@ -1,0 +1,2 @@
+syscalls.o: \
+ C:/RMX/labencoder/encoder/STM32CubeIDE/Application/User/Core/syscalls.c
